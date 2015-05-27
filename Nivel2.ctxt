@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Nivel2()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Nivel2.\r\n\ \r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Metodo\ act\ del\ nivel\ 2\r\n
+comment2.params=pts
+comment2.target=void\ addPoints(int)
+comment2.text=\r\n\ Metodo\ para\ agregar\ puntos\ y\ aparecer\ en\ el\ mapa\ a\ los\ enemigos\ y\ al\ jefe\r\n
+comment3.params=bandera
+comment3.target=void\ jefeVencido(boolean)
+comment3.text=\r\n\ Metodo\ para\ informar\ al\ mundo\ que\ el\ jefe\ esta\ derrotado\ y\ que\ el\ jugador\ pase\ al\ siguiente\ nivel\r\n
+comment4.params=pts
+comment4.target=void\ rmvvida(int)
+comment4.text=\r\n\ Metodo\ para\ remover\ vidas\ al\ jefe\r\n
+comment5.params=pts
+comment5.target=void\ addvida(int)
+comment5.text=\r\n\ Metodo\ para\ agregar\ vidas\ al\ jefe\r\n
+numComments=6

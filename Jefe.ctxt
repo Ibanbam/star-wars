@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Jefe()
+comment0.text=\r\n\ Act\ -\ hace\ lo\ que\ Jefe\ quiere\ hacer.\ Este\ m\u00E9todo\ se\ llama\ "cuando\ quiera"\ o\ whenever\r\n\ los\ botones\ 'Actuar\ or\ 'Ejecutar'\ son\ presionados\ en\ el\ entorno.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Metodo\ act\ dle\ jefe\r\n
+comment2.params=x\ y
+comment2.target=void\ mover(int,\ int)
+comment2.text=\r\n\ Metodo\ que\ le\ da\ el\ movmiento\ al\ jefe\r\n
+comment3.params=x\ y
+comment3.target=void\ impacto(int,\ int)
+comment3.text=\r\n\ Metodo\ que\ detecta\ si\ se\ la\ bala\ toco\ al\ jefe\r\n
+comment4.params=
+comment4.target=void\ animacion()
+comment4.text=\r\n\ Metodo\ que\ le\ da\ la\ animacion\ al\ jefe\r\n
+numComments=5

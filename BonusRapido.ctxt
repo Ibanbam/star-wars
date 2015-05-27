@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ Act\ -\ hace\ lo\ que\ BonusRapido\ quiere\ hacer.\ Este\ m\u00E9todo\ se\ llama\ "cuando\ quiera"\ o\ whenever\r\n\ los\ botones\ 'Actuar\ or\ 'Ejecutar'\ son\ presionados\ en\ el\ entorno.\r\n
+comment1.params=
+comment1.target=void\ impacto()
+comment1.text=\r\n\ Metodo\ para\ detectar\ si\ el\ bonus\ toco\ al\ jugador\r\n
+comment2.params=
+comment2.target=void\ movimiento()
+comment2.text=\r\n\ Metodo\ para\ dar\ el\ movimiento\ al\ bonus\r\n
+numComments=3

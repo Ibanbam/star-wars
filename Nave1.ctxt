@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ Act\ -\ hace\ lo\ que\ Nave1\ quiere\ hacer.\ Este\ m\u00E9todo\ se\ llama\ "cuando\ quiera"\ o\ whenever\r\n\ los\ botones\ 'Actuar\ or\ 'Ejecutar'\ son\ presionados\ en\ el\ entorno.\r\n
+comment1.params=
+comment1.target=void\ mover()
+comment1.text=\r\n\ Metodo\ para\ hacer\ que\ se\ mueva\ la\ nave\r\n
+comment2.params=
+comment2.target=void\ animation()
+comment2.text=\r\n\ Metodo\ para\ dar\ la\ animacion\ a\ la\ nave\r\n
+comment3.params=
+comment3.target=void\ disparar()
+comment3.text=\r\n\ Este\ metodo\ dispara\ la\ clase\ balas\r\n
+comment4.params=
+comment4.target=void\ impacto()
+comment4.text=\r\n\ Metodo\ que\ detecta\ si\ una\ bala\ enemiga\ toca\ al\ jugador\r\n
+numComments=5

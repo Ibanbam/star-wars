@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ Act\ -\ hace\ lo\ que\ Enemigo1\ quiere\ hacer.\ Este\ m\u00E9todo\ se\ llama\ "cuando\ quiera"\ o\ whenever\r\n\ los\ botones\ 'Actuar\ or\ 'Ejecutar'\ son\ presionados\ en\ el\ entorno.\r\n
+comment1.params=x\ y
+comment1.target=void\ mover(int,\ int)
+comment1.text=\r\n\ Metodo\ para\ mover\ al\ enemigo\r\n
+comment2.params=x\ y
+comment2.target=void\ impacto(int,\ int)
+comment2.text=\r\n\ Metodo\ para\ detectar\ si\ el\ enemigo\ toco\ una\ bala\r\n
+comment3.params=x\ y
+comment3.target=void\ salirMapa(int,\ int)
+comment3.text=\r\n\ Metodo\ que\ verifica\ si\ un\ enemigo\ sale\ del\ mapa\r\n
+comment4.params=
+comment4.target=void\ animacion()
+comment4.text=\r\n\ MEtodo\ que\ le\ da\ la\ animacion\ al\ enemigo\r\n
+numComments=5

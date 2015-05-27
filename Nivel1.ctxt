@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Nivel1()
+comment0.text=\r\n\ Constructor\ para\ objetos\ de\ clase\ Nivel1.\r\n\ \r\n
+comment1.params=pts
+comment1.target=void\ addPoints(int)
+comment1.text=\r\n\ Metodo\ para\ agregar\ puntaje\ e\ ir\ apareciendo\ enemigos\ en\ la\ ronda\r\n
+comment2.params=pts
+comment2.target=void\ rmvLives(int)
+comment3.params=pts
+comment3.target=void\ addLives(int)
+comment3.text=\r\n\ Metodo\ para\ agregar\ vidas\ al\ jugador\r\n
+comment4.params=
+comment4.target=void\ nacerEnemigos1()
+comment5.params=
+comment5.target=void\ nacerEnemigos2()
+comment5.text=\r\n\ Metodo\ para\ crear\ enemigos\ del\ tipo\ 2\r\n
+comment6.params=
+comment6.target=void\ nacerEnemigos3()
+comment6.text=\r\n\ Metodo\ para\ crear\ enemigos\ del\ tipo\ 3\r\n
+comment7.params=
+comment7.target=void\ morir()
+comment7.text=\r\n\ Metodo\ que\ informa\ al\ mundo\ que\ el\ jugador\ murio\r\n
+comment8.params=
+comment8.target=void\ act()
+comment8.text=\r\n\ Metodo\ act\ del\ nivel\ 1\r\n
+numComments=9
